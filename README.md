@@ -78,8 +78,7 @@ Once cloned; it contains
 #### Output
 
 <img width="1394" alt="outputexample5" src="https://github.com/Umesh92x/TimeSeriesEDA/assets/37169232/67a956d4-a14d-464b-b7f6-f0952d9044bb">
-
-
+Note - check the output folder to get more sample results and the document file
 
 ## 🛠 Skills
 Python, Jypyter Notebook, Statistics, Data Analysis, Time Series, and GIT
