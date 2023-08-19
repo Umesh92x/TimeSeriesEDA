@@ -75,6 +75,9 @@ Once cloned; it contains
 3. Run the Notebook via the 'Re-run whole notebook' option
 4. It may take 3-4 mins with Any CPU and RAM. Time computation can be viewed in the output doc file (Output folder)
 
+#### Output
+
+<img width="1394" alt="outputexample5" src="https://github.com/Umesh92x/TimeSeriesEDA/assets/37169232/67a956d4-a14d-464b-b7f6-f0952d9044bb">
 
 
 
