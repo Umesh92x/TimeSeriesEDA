@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I am a data scientist with a strong background in data analysis and machine learning. My expertise lies in effectively harnessing and analyzing data to derive valuable insights. I have a proven track record of applying advanced statistical and machine-learning techniques to tackle complex data challenges. My experience includes developing predictive models, identifying patterns, and extracting meaningful information from diverse datasets. I am dedicated to utilizing my skills to drive data-driven decision-making and contribute to the field of data science.
 
-
+U+1F603
 # Time Series EDA techniques 
 
 This project includes many Exploratory Data Analysis techniques on the Time Series data.
@@ -87,6 +87,23 @@ Python, Jypyter Notebook, Statistics, Data Analysis, Time Series, and GIT
 ## Authors
 
 - [@Umesh](https://www.linkedin.com/in/umesh-nagar-515210119/)
+
+## Contributing
+
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+
+Fork the Project
+Create your work Branch (git checkout -b TimeSeriesEDA)
+Commit your changes (git commit -m 'Add some TimeSeriesEDA')
+Push to the Branch (git push origin TimeSeriesEDA)
+Open a Pull Request
+
+## Acknowledgments
+
+- [Jupyter notebook]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://jupyter.org/))
+- [Python](https://www.python.org/)
+- 
 
 
 ## 🔗 Links
