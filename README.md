@@ -92,11 +92,11 @@ Python, Jypyter Notebook, Statistics, Data Analysis, Time Series, and GIT
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
-Fork the Project
-Create your work Branch (git checkout -b TimeSeriesEDA)
-Commit your changes (git commit -m 'Add some TimeSeriesEDA')
-Push to the Branch (git push origin TimeSeriesEDA)
-Open a Pull Request
+- Fork the Project
+- Create your work Branch (git checkout -b TimeSeriesEDA)
+- Commit your changes (git commit -m 'Add some TimeSeriesEDA')
+- Push to the Branch (git push origin TimeSeriesEDA)
+- Open a Pull Request
 
 ## Acknowledgments
 
