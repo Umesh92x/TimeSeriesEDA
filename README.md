@@ -10,15 +10,15 @@ I am a data scientist with a strong background in data analysis and machine lear
 
 This project includes many Exploratory Data Analysis techniques on the Time Series data.
 
-This is a high-performance and clear visualization of Python implementation with Time Series techniques, which includes a wide variety of testing using statistical analysis and libraries. 
+This is a high-performance and clear visualization of Python implementation with Time Series techniques, which includes a wide variety of testing using statistical analysis and libraries. Results are stored 1. In document file 2. In CSV file 
 
 
 ### Goals
-💡 Learning : Learn various time series EDA techniques that help in non-time series data as well
+💡 Learning: Learn various time series EDA techniques that help in non-time series data as well
 
-💻 Hardware support : Full, seamless support for every system
+💻 Hardware support: Full, seamless support for every system
 
-🔋 Try with own : Take any forecast/demand data and make use of it to get useful insights of it 
+🔋 Try with your own: Take any forecast/demand data and make use of it to get useful insights out of it 
 
 ### Techniques includes
 ```
@@ -56,16 +56,24 @@ Follow the below instructions on setting up your project locally. To get a local
 
 ### Installation
 
-1. Clone the repo : Clone it on your suitable project path
+1. Clone the repo: Clone it on your suitable project path
 git clone https://github.com/Umesh92x/ExploratoryDataAnalysis.git
 
 ### Execution 
+
+#### Step 1
 Once cloned; it contains
 1. Config file : A ConfigEDA.ini file
 2. Ipynp file : Exploratory_Data_Analysis.ipynb
 3. Sample CSV file : SampleSalesData.csv
 4. Output CSV file and screenshots
 
+#### Step 2
+
+1. Open the config .ini file and add the path and file name. Leave other fields as it is
+2. Opne the Notebook
+3. Run the Notebook via the 'Re-run whole notebook' option
+4. It may take 3-4 mins with Any CPU and RAM. Time computation can be viewed in the output doc file (Output folder)
 
 
 
@@ -76,7 +84,7 @@ Python, Jypyter Notebook, Statistics, Data Analysis, Time Series, and GIT
 
 ## Authors
 
-- [@Umesh](https://github.com/Umesh92x)
+- [@Umesh](https://www.linkedin.com/in/umesh-nagar-515210119/)
 
 
 ## 🔗 Links
