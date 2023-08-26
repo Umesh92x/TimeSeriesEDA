@@ -31,7 +31,7 @@ This is a high-performance and clear visualization of Python implementation with
 9. ABC-XYZ
 10. COV
 11. Correlation plot between quantity and time features
-12. Negative Sales
+12. Negative sales
 13. Heteroscedasticity
 14. Leading zeros sales
 15. Time series feature extraction
