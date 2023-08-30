@@ -61,7 +61,7 @@ git clone https://github.com/Umesh92x/ExploratoryDataAnalysis.git
 #### Step 1
 Once cloned; it contains
 1. Config file : A ConfigEDA.ini file
-2. Ipynp file : Exploratory_Data_Analysis.ipynb
+2. Ipynp file : TimeSeriesEDA.ipynb
 3. Sample CSV file : SampleSalesData.csv
 4. Output CSV file and screenshots
 
