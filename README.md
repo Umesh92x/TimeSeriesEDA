@@ -11,11 +11,11 @@ This is a high-performance and clear visualization of Python implementation with
 
 
 ### Goals
-💡 Learning: Learn various time series EDA techniques that help in non-time series data as well
+💡 Learning: Learn various time series techniques with EDA that help in non-time series data exploration as well
 
 💻 Hardware support: Full! seamless support for every system
 
-🔋 Try with your own: Take any forecast/demand data and make use of it to get useful insights out of it 
+🔋 Try with your own: Take any forecast/demand data and make use of it to get useful insights.
 
 ### Techniques includes
 ```
