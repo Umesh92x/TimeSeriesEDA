@@ -28,7 +28,7 @@ This is a high-performance and clear visualization of Python implementation with
 7. Zscore outlier
 8. XYZ data segmentation
 9. ABC-XYZ
-10. COV
+10. COV (coefficient of variance)
 11. Correlation plot between quantity and time features
 12. Negative sales
 13. Heteroscedasticity
