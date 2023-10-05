@@ -43,7 +43,7 @@ This is a high-performance and clear visualization of Python implementation with
 20. Level Shift
 21. Outlier in last 1 year
 22. Number of zeros
-23. Repeatitative values
+23. Repeatitative values either 1 or 0
 24. Flat/Constant sales
 25. Intermittency
 ```
