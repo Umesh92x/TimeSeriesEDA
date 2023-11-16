@@ -7,7 +7,7 @@ I am a data scientist with a strong background in data analysis and machine lear
 
 This project includes many Exploratory Data Analysis techniques on the Time Series data.
 
-This is a high-performance and clear visualization of Python implementation with Time Series techniques, which includes a wide variety of testing using statistical analysis and libraries. Results are stored 1. In document file 2. In CSV file 
+This is a high-performance and clear visualization of Python implementation with Time Series techniques, which includes a wide variety of techniques of statistical analysis and libraries. Results are stored 1. In document file 2. In CSV file.
 
 
 ### Goals
