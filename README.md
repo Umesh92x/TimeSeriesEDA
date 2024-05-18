@@ -91,7 +91,7 @@ If you have a suggestion that would make this better, please fork this repo and 
 
 - Fork the Project
 - Create your work Branch (git checkout -b TimeSeriesEDA)
-- Commit your changes (git commit -m 'Add some TimeSeriesEDA')
+- Commit your changes (git commit -m 'Add TimeSeriesEDA checklists')
 - Push to the Branch (git push origin TimeSeriesEDA)
 - Open a Pull Request
 
