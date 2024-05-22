@@ -108,5 +108,5 @@ If you have a suggestion that would make this better, please fork this repo and 
 
 ## Feedback
 
-If you have any feedback or suggestion, please reach out to me at umesh.nagar92x@gmail.com
+If you have any feedback or suggestions, please reach out to me at umesh.nagar92x@gmail.com
 
